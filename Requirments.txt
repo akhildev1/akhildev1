@@ -5,3 +5,4 @@ calls
 emoji
 strickers
 colours
+New Color Picker
